@@ -1,0 +1,16 @@
+.background {
+  
+  &__top {
+    position: absolute;
+    bottom: 35%;
+    right: 53%;
+  }
+
+  &__bottom {
+    position: absolute;
+    left: 50%;
+    top: 48%;
+    z-index: -1;
+  }
+
+}
